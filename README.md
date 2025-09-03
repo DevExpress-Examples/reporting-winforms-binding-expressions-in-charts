@@ -21,7 +21,7 @@ In this example, the chart’s constant line is bound to the following expressio
 
 ## Documentation
 
-* [Bind Report Controls to Data with Binding Expressions](https://docs.devexpress.com/XtraReports/1180/detailed-guide-to-devexpress-reporting/use-report-controls/bind-report-controls-to-data/specify-a-control-s-binding-expression?v=23.1)
+* [Bind Report Controls to Data with Binding Expressions](https://docs.devexpress.com/XtraReports/1180/detailed-guide-to-devexpress-reporting/use-report-controls/bind-report-controls-to-data/specify-a-control-s-binding-expression)
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
@@ -29,3 +29,4 @@ In this example, the chart’s constant line is bound to the following expressio
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
